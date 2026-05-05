@@ -1,7 +1,8 @@
 # 🚀 DevOps & Docker Assignment Repository
 
 ## 👨‍🎓 Author
-**Name:** Aniket  
+
+**Name:** Aniket Kumar Singh
 
 ---
 
@@ -32,6 +33,7 @@ This repository is created to:
 ## 📚 Contents
 
 ### 🔹 Unit I: Basics of DevOps Infrastructure
+
 - Introduction to Containers  
 - Container Runtime  
 - Namespaces & cgroups  
@@ -39,11 +41,12 @@ This repository is created to:
 - Docker Commands (run, stop, exec, logs, etc.)  
 - Docker Objects (image, container, network, volume)  
 
-📄 File: `UNIT1_All_PPT_Commands.md`
+📄 File: `Unit_1.md`
 
 ---
 
 ### 🔹 Unit II: Image Building & Container Management
+
 - Dockerfile and Image Creation  
 - Image Tagging & Layers  
 - Docker Networking  
@@ -52,11 +55,12 @@ This repository is created to:
 - Copying Files  
 - Docker Compose Basics  
 
-📄 File: `UNIT2_All_PPT_Commands.md`
+📄 File: `Unit_2.md`
 
 ---
 
 ### 🔹 Unit III: Microservices with Docker Compose
+
 - Monolithic vs Microservices  
 - Advantages of Microservices  
 - Docker Compose YAML  
@@ -64,7 +68,7 @@ This repository is created to:
 - Node + MongoDB Deployment  
 - WordPress + MySQL Deployment  
 
-📄 File: `UNIT3_Docker_Compose.md`
+📄 File: `Unit_3.md`
 
 ---
 
