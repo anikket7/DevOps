@@ -1,4 +1,4 @@
-# 🚀 DevOps & Docker Assignment Repository
+# 🚀 DevOps & Docker Class Work Repository
 
 ## 👨‍🎓 Author
 
